@@ -6,6 +6,7 @@
 2. java
 3. react
 4. MySQL(to store data)
+5. Material-ui
 
 # Sharing some pictures of my project:-
 ![Screenshot from 2023-11-20 22-11-41](https://github.com/madhurisonawat/student-registration-app/assets/63995668/64b632cb-48a3-4734-ba3d-4345eeae2e4f)
